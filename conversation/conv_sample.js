@@ -29,9 +29,10 @@ var input = colors.input;
 /*
  * Variables to connect to Watson service
  */
-var wid = '8ddff31a-3858-43c9-afdf-25a43f0a86cb';
-var uid = 'c20e2990-3d4c-4f89-8271-80efac5d4979';
-var pwid = 'HEa0oP1b60Ti';
+//NOTE: FILL THOSE WITH YOUR VALUES
+var wid = 'WORKSPACE ID';
+var uid = 'USER ID';
+var pwid = 'PASSWORD';
 
 /**
  * Instantiate the Watson Conversation Service
